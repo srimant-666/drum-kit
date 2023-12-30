@@ -7,31 +7,31 @@ for (let i = 0; i<numberOfDrumButtons; i++) {
         // this.style.color="white"
         let buttonInnerHTML = this.innerHTML;
         switch (buttonInnerHTML) {
-            case "w":
+            case "s":
                 var tom1 = new Audio("sounds/tom-1.mp3");
                 tom1.play();
                 break;
-            case "a":
+            case "r":
                 var tom2 = new Audio("sounds/tom-2.mp3");
                 tom2.play();
                 break;
-            case "s":
+            case "i":
                 var tom3 = new Audio("sounds/tom-3.mp3");
                 tom3.play();
                 break;
-            case "d":
+            case "m":
                 var tom4 = new Audio("sounds/tom-4.mp3");
                 tom4.play();
                 break;
-            case "j":
+            case "a":
                 var tom5 = new Audio("sounds/crash.mp3");
                 tom5.play();
                 break;
-            case "k":
+            case "n":
                 var tom6 = new Audio("sounds/kick-bass.mp3");
                 tom6.play();
                 break;
-            case "l":
+            case "t":
                 var tom7 = new Audio("sounds/snare.mp3");
                 tom7.play();
                 break;
