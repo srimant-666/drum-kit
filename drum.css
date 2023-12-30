@@ -16,31 +16,31 @@ body {
     font-family: sans-serif;
   }
   
-  .w { 
+  .s { 
     background-image: url("images/tom1.png");
   }
   
-  .a {
+  .r {
     background-image: url("images/tom2.png");
   }
   
-  .s {
+  .i {
     background-image: url("images/tom3.png");
   }
   
-  .d {
+  .m {
     background-image: url("images/tom4.png");
   }
   
-  .j {
+  .a {
     background-image: url("images/crash.png");
   }
   
-  .k {
+  .n {
     background-image: url("images/kick.png");
   }
   
-  .l {
+  .t {
     background-image: url("images/snare.png");
   }
   
